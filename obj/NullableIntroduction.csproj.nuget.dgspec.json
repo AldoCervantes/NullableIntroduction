@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj": {}
+    "C:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj": {}
   },
   "projects": {
-    "c:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj": {
+    "C:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj",
+        "projectUniqueName": "C:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj",
         "projectName": "NullableIntroduction",
-        "projectPath": "c:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj",
+        "projectPath": "C:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\NullableIntroduction.csproj",
         "packagesPath": "C:\\Users\\E-ACERVANTESBR\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\obj\\",
+        "outputPath": "C:\\Users\\E-ACERVANTESBR\\Desktop\\CND-course\\NullableIntroduction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\bin\Debug\netcoreapp3.0\NullableIntroduction.exe
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\bin\Debug\netcoreapp3.0\NullableIntroduction.deps.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\bin\Debug\netcoreapp3.0\NullableIntroduction.runtimeconfig.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\bin\Debug\netcoreapp3.0\NullableIntroduction.runtimeconfig.dev.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\bin\Debug\netcoreapp3.0\NullableIntroduction.dll
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\bin\Debug\netcoreapp3.0\NullableIntroduction.pdb
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\obj\Debug\netcoreapp3.0\NullableIntroduction.csprojAssemblyReference.cache
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\obj\Debug\netcoreapp3.0\NullableIntroduction.AssemblyInfoInputs.cache
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\obj\Debug\netcoreapp3.0\NullableIntroduction.AssemblyInfo.cs
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\obj\Debug\netcoreapp3.0\NullableIntroduction.dll
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\NullableIntroduction\obj\Debug\netcoreapp3.0\NullableIntroduction.pdb
